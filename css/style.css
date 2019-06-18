@@ -1,0 +1,62 @@
+.bg {
+  background-image: url(../images/floor-tile.png);
+  height: 600px;
+}
+
+/* ==============================header========================================== */
+
+#nameBox {
+  background-color: #4aaaa5;
+  font-family: Georgia;
+  margin: 0;
+  box-sizing: border-box;
+  font-size: 32px;
+  padding: 10px;
+  margin: 0px;
+}
+
+.nav-link {
+  color: #777777;
+  padding: 0;
+  padding-left: 8px;
+}
+a:hover {
+  color: #4aaaa5;
+}
+
+#Link {
+  border-right: #777777 solid 1px;
+  padding-right: 10px;
+}
+
+/* ============================= main div with pictures and text==================================================== */
+#mainDiv {
+  padding: 30px;
+}
+
+#aboutMe {
+  color: #4aaaa5;
+  font-family: Georgia;
+}
+p {
+  color: #777777;
+}
+#catPic {
+  width: 150px;
+}
+.img {
+  width: 200px;
+}
+
+/* =================================footer =======================================*/
+
+#bottom {
+  background-color: #666666;
+  padding: 10px;
+  text-align: center;
+  bottom: 0;
+  color: #dddddd;
+  width: 100%;
+  position: fixed;
+  border-top: #4aaaa5 solid 8px;
+}
